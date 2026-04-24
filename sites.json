@@ -185,7 +185,7 @@
     },
 
     {
-        "name": "Jkhand",
+        "name": "Jharkhand",
         "captcha": true,
         "start_url": "https://jharkhandtenders.gov.in/nicgep/app?page=FrontEndAdvancedSearch&service=page",
         "pages": [
