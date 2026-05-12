@@ -2,8 +2,12 @@
   "company_name": "ABC Infra",
 
   "enabled_sources": [
-    "CPPP",
-    "CPSE",
-    "UP"
+    "cppp", "etenders", "cpse",
+    "arunachal", "assam","manipur","manipur","mizoram","nagaland","tripura",
+    "kerala","tamilnadu",
+    "jharkhand", "odisha","westbengal",
+    "maharashtra","rajasthan",
+    "mp","up","uttarakhand",
+    "punjab","haryana", "himachal",
   ]
 }
