@@ -1,1 +1,9 @@
+{
+  "company_name": "ABC Infra",
 
+  "enabled_sources": [
+    "CPPP",
+    "CPSE",
+    "MP"
+  ]
+}
