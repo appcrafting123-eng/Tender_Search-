@@ -1,5 +1,6 @@
 [
     {
+        "id": "cppp",
         "name": "CPPP",
         "captcha": true,
         "start_url": "https://eprocure.gov.in/eprocure/app?page=FrontEndAdvancedSearch&service=page",
@@ -22,6 +23,7 @@
         ]
     },
     {
+        "id": "etenders",
         "name": "eTenders",
         "captcha": true,
         "start_url": "https://etenders.gov.in/eprocure/app?page=FrontEndAdvancedSearch&service=page",
@@ -44,6 +46,7 @@
         ]
     },
     {
+        "id": "cpse",
         "name": "CPSE",
         "captcha": true,
         "start_url": "https://eprocure.gov.in/cppp/latestactivetendersnew/cpppdata/byYzJWc1pXTjBBMTNoMWMyVnNaV04wQTEzaDFjSFZpYkdsemFHVmtYMlJoZEdVPUExM2gxVUUxRA==?page=1",
@@ -66,6 +69,7 @@
     },
 
     {
+        "id": "arunachal",
         "name": "Arunachal",
         "captcha": true,
         "start_url": "https://arunachaltenders.gov.in/nicgep/app?page=FrontEndAdvancedSearch&service=page",
@@ -74,6 +78,7 @@
         ]
     },
     {
+        "id": "assam",
         "name": "Assam",
         "captcha": true,
         "start_url": "https://assamtenders.gov.in/nicgep/app?page=FrontEndAdvancedSearch&service=page",
@@ -96,6 +101,7 @@
         ]
     },
     {
+        "id": "manipur",
         "name": "Manipur",
         "captcha": true,
         "start_url": "https://manipurtenders.gov.in/nicgep/app?page=FrontEndAdvancedSearch&service=page",
@@ -104,6 +110,7 @@
         ]
     },
     {
+        "id": "meghalaya",
         "name": "Meghalaya",
         "captcha": true,
         "start_url": "https://meghalayatenders.gov.in/nicgep/app?page=FrontEndAdvancedSearch&service=page",
@@ -112,6 +119,7 @@
         ]
     },
     {
+        "id": "mizoram",
         "name": "Mizoram",
         "captcha": true,
         "start_url": "https://mizoramtenders.gov.in/nicgep/app?page=FrontEndAdvancedSearch&service=page",
@@ -120,6 +128,7 @@
         ]
     },
     {
+        "id": "nagaland",
         "name": "Nagaland",
         "captcha": true,
         "start_url": "https://nagalandtenders.gov.in/nicgep/app?page=FrontEndAdvancedSearch&service=page",
@@ -129,6 +138,7 @@
         ]
     },
     {
+        "id": "tripura",
         "name": "Tripura",
         "captcha": true,
         "start_url": "https://tripuratenders.gov.in/nicgep/app?page=FrontEndAdvancedSearch&service=page",
@@ -140,6 +150,7 @@
     },
 
     {
+        "id": "kerala",
         "name": "Kerala",
         "captcha": true,
         "start_url": "https://etenders.kerala.gov.in/nicgep/app?page=FrontEndAdvancedSearch&service=page",
@@ -162,6 +173,7 @@
         ]
     },
     {
+        "id": "tamilnadu",
         "name": "Tamil Nadu",
         "captcha": true,
         "start_url": "https://tntenders.gov.in/nicgep/app?page=FrontEndAdvancedSearch&service=page",
@@ -185,6 +197,7 @@
     },
 
     {
+        "id": "jharkhand",
         "name": "Jharkhand",
         "captcha": true,
         "start_url": "https://jharkhandtenders.gov.in/nicgep/app?page=FrontEndAdvancedSearch&service=page",
@@ -207,6 +220,7 @@
         ]
     },
     {
+        "id": "odisha",
         "name": "Odisha",
         "captcha": true,
         "start_url": "https://tendersodisha.gov.in/nicgep/app?page=FrontEndAdvancedSearch&service=page",
@@ -229,6 +243,7 @@
         ]
     },
     {
+        "id": "westbengal",
         "name": "West Bengal",
         "captcha": true,
         "start_url": "https://wbtenders.gov.in/nicgep/app?page=FrontEndAdvancedSearch&service=page",
@@ -251,6 +266,7 @@
         ]
     },
     {
+        "id": "maharashtra",
         "name": "Maharashtra",
         "captcha": true,
         "start_url": "https://mahatenders.gov.in/nicgep/app?page=FrontEndAdvancedSearch&service=page",
@@ -273,6 +289,7 @@
         ]
     },
     {
+        "id": "rajasthan",
         "name": "Rajasthan",
         "captcha": true,
         "start_url": "https://eproc.rajasthan.gov.in/nicgep/app?page=FrontEndAdvancedSearch&service=page",
@@ -296,6 +313,7 @@
     },
 
     {
+        "id": "mp",
         "name": "MP",
         "captcha": true,
         "start_url": "https://mptenders.gov.in/nicgep/app?page=FrontEndAdvancedSearch&service=page",
@@ -318,6 +336,7 @@
         ]
     },
     {
+        "id": "up",
         "name": "UP",
         "captcha": true,
         "start_url": "https://etender.up.nic.in/nicgep/app?page=FrontEndAdvancedSearch&service=page",
@@ -340,6 +359,7 @@
         ]
     },
     {
+        "id": "uttarakhand",
         "name": "Uttarakhand",
         "captcha": true,
         "start_url": "https://uktenders.gov.in/nicgep/app?page=FrontEndAdvancedSearch&service=page",
@@ -362,6 +382,7 @@
         ]
     },
     {
+        "id": "punjab",
         "name": "Punjab",
         "captcha": true,
         "start_url": "https://eproc.punjab.gov.in/nicgep/app?page=FrontEndAdvancedSearch&service=page",
@@ -384,6 +405,7 @@
         ]
     },
     {
+        "id": "haryana",
         "name": "Haryana",
         "captcha": true,
         "start_url": "https://etenders.hry.nic.in/nicgep/app?page=FrontEndAdvancedSearch&service=page",
@@ -406,6 +428,7 @@
         ]
     },
     {
+        "id": "himachal",
         "name": "Himachal",
         "captcha": true,
         "start_url": "https://hptenders.gov.in/nicgep/app?page=FrontEndAdvancedSearch&service=page",
