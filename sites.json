@@ -138,7 +138,14 @@
 
         ]
     },
-
+   {
+        "name": "Sikkim",
+        "captcha": true,
+        "start_url": "https://www.sikkimtender.gov.in/nicgep/app?page=FrontEndAdvancedSearch&service=page",
+        "pages": [
+            "https://www.sikkimtender.gov.in/nicgep/app"
+        ]
+    },
     {
         "name": "Kerala",
         "captcha": true,
