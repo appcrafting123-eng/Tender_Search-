@@ -356,7 +356,15 @@
             "https://www.sikkimtender.gov.in/nicgep/app"
         ]
     },
-
+   {
+        "id": "meghalaya",
+        "name": "Meghalaya",
+        "captcha": true,
+        "start_url": "https://meghalayatenders.gov.in/nicgep/app?page=FrontEndAdvancedSearch&service=page",
+        "pages": [
+            "https://meghalayatenders.gov.in/nicgep/app?page=FrontEndAdvancedSearch&service=page"
+        ]
+    },
     {
         "id": "tamilnadu",
         "name": "Tamil Nadu",
