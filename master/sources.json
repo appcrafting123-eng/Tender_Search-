@@ -347,7 +347,8 @@
             "https://eproc.rajasthan.gov.in/nicgep/app?component=%24TablePages.linkPage&page=FrontEndAdvancedSearchResult&service=direct&session=T&sp=AFrontEndAdvancedSearchResult%2Ctable&sp=15"
         ]
     },
-       {"id": "sikkim",
+       {
+        "id": "sikkim",
         "name": "Sikkim",
         "captcha": true,
         "start_url": "https://www.sikkimtender.gov.in/nicgep/app?page=FrontEndAdvancedSearch&service=page",
