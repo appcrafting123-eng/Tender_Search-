@@ -24,7 +24,7 @@
     },
     {
         "id": "etenders",
-        "name": "eTenders - PSUs",
+        "name": "CPPP - PSUs",
         "captcha": true,
         "start_url": "https://etenders.gov.in/eprocure/app?page=FrontEndAdvancedSearch&service=page",
         "pages": [
