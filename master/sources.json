@@ -153,7 +153,7 @@
         "id": "daman&diu",
         "name": "Daman and Diu",
         "captcha": true,
-        "start_url": "https://ddtenders.gov.in/nicgep/app",
+        "start_url": "https://ddtenders.gov.in/nicgep/app?page=FrontEndAdvancedSearch&service=page",
         "pages": [
             "https://ddtenders.gov.in/nicgep/app?component=%24TablePages.linkPage&page=FrontEndAdvancedSearchResult&service=direct&session=T&sp=AFrontEndAdvancedSearchResult%2Ctable&sp=1",
             "https://ddtenders.gov.in/nicgep/app?component=%24TablePages.linkPage&page=FrontEndAdvancedSearchResult&service=direct&session=T&sp=AFrontEndAdvancedSearchResult%2Ctable&sp=2",
@@ -204,7 +204,7 @@
             "https://govtprocurement.delhi.gov.in/nicgep/app?component=%24TablePages.linkPage&page=FrontEndAdvancedSearchResult&service=direct&session=T&sp=AFrontEndAdvancedSearchResult%2Ctable&sp=14",
             "https://govtprocurement.delhi.gov.in/nicgep/app?component=%24TablePages.linkPage&page=FrontEndAdvancedSearchResult&service=direct&session=T&sp=AFrontEndAdvancedSearchResult%2Ctable&sp=15"
         ]
-    },
+     },
     
      {
         "id": "haryana",
@@ -412,8 +412,7 @@
         "name": "Nagaland",
         "captcha": true,
         "start_url": "https://nagalandtenders.gov.in/nicgep/app?page=FrontEndAdvancedSearch&service=page",
-        "pages": [
-            
+        "pages": [            
             "https://nagalandtenders.gov.in/nicgep/app?component=%24TablePages.linkPage&page=FrontEndAdvancedSearchResult&service=direct&session=T&sp=AFrontEndAdvancedSearchResult%2Ctable&sp=1"
         ]
     },
