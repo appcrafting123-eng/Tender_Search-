@@ -1,7 +1,7 @@
 [
     {
         "id": "cppp",
-        "name": "CPPP",
+        "name": "CPPP - Central govt",
         "captcha": true,
         "start_url": "https://eprocure.gov.in/eprocure/app?page=FrontEndAdvancedSearch&service=page",
         "pages": [
@@ -24,7 +24,7 @@
     },
     {
         "id": "etenders",
-        "name": "eTenders",
+        "name": "eTenders - PSUs",
         "captcha": true,
         "start_url": "https://etenders.gov.in/eprocure/app?page=FrontEndAdvancedSearch&service=page",
         "pages": [
