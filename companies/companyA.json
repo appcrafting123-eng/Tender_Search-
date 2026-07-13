@@ -3,10 +3,11 @@
 
   "enabled_sources": [
     "cppp", "etenders", "cpse",
-    "arunachal", "assam", "delhi", "manipur", "mizoram", "meghalaya", "nagaland", "tripura", "sikkim",
+    "a&n", "chandigarh", "daman&diu", "dadra&nagar", "delhi", "lakshadweep",
+    "arunachal", "assam", "manipur", "mizoram", "meghalaya", "nagaland", "tripura", "sikkim",
     "kerala", "tamilnadu",
-    "jharkhand", "odisha","westbengal",
-    "maharashtra", "rajasthan", "goa",
+    "jharkhand", "odisha", "westbengal",
+    "maharashtra", "rajasthan", "goa", "puducherry",
     "mp", "up", "uttarakhand",
     "punjab", "haryana", "himachal"
   ]
