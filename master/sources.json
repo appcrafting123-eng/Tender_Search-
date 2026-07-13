@@ -1,4 +1,26 @@
-[
+[ 
+    {
+        "id": "cpse1",
+        "name": "GeM-CPPP for Central govt & PSUs",
+        "captcha": false,
+        "start_url": "https://eprocure.gov.in/cppp/latestactivetendersnew/cpppdata?page=1",
+        "pages": [
+            "https://eprocure.gov.in/cppp/latestactivetendersnew/cpppdata?page=1"
+        ]
+    },
+    
+    {
+        "id": "cpse2",
+        "name": "GeM-CPPP for all State govts",
+        "captcha": false,
+        "start_url": "https://eprocure.gov.in/cppp/latestactivetendersnew/mmpdata",
+        "pages": [
+            "https://eprocure.gov.in/cppp/latestactivetendersnew/mmpdata",
+            "https://eprocure.gov.in/cppp/latestactivetendersnew/mmpdata?page=2",
+            "https://eprocure.gov.in/cppp/latestactivetendersnew/mmpdata?page=3"
+        ]
+    },
+    
     {
         "id": "cppp",
         "name": "CPPP - Central govt",
@@ -68,26 +90,6 @@
             "https://etenders.gov.in/eprocure/app?component=%24TablePages.linkPage&page=FrontEndAdvancedSearchResult&service=direct&session=T&sp=AFrontEndAdvancedSearchResult%2Ctable&sp=18",
             "https://etenders.gov.in/eprocure/app?component=%24TablePages.linkPage&page=FrontEndAdvancedSearchResult&service=direct&session=T&sp=AFrontEndAdvancedSearchResult%2Ctable&sp=19",
             "https://etenders.gov.in/eprocure/app?component=%24TablePages.linkPage&page=FrontEndAdvancedSearchResult&service=direct&session=T&sp=AFrontEndAdvancedSearchResult%2Ctable&sp=20"
-        ]
-    },
-    {
-        "id": "cpse1",
-        "name": "GeM-CPPP for Central govt & PSUs",
-        "captcha": false,
-        "start_url": "https://eprocure.gov.in/cppp/latestactivetendersnew/cpppdata?page=1",
-        "pages": [
-            "https://eprocure.gov.in/cppp/latestactivetendersnew/cpppdata?page=1"
-        ]
-    },
-    {
-        "id": "cpse2",
-        "name": "GeM-CPPP for all State govts",
-        "captcha": false,
-        "start_url": "https://eprocure.gov.in/cppp/latestactivetendersnew/mmpdata",
-        "pages": [
-            "https://eprocure.gov.in/cppp/latestactivetendersnew/mmpdata",
-            "https://eprocure.gov.in/cppp/latestactivetendersnew/mmpdata?page=2",
-            "https://eprocure.gov.in/cppp/latestactivetendersnew/mmpdata?page=3"
         ]
     },
 
