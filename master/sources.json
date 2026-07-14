@@ -114,7 +114,7 @@
         "name": "Jharkhand",
         "captcha": true,
         "scraper_type": "nic_active",
-        "start_url": "
+        "start_url": "https://www.jharkhandtenders.gov.in/nicgep/app?page=FrontEndLatestActiveTenders&service=page"
     },
    
     {
@@ -122,9 +122,7 @@
         "name": "Kerala",
         "captcha": true,
         "scraper_type": "nic_active",
-        "start_url": 
-        "start_url": "https://etenders.kerala.gov.in/nicgep/app?page=FrontEndAdvancedSearch&service=page"
-       
+        "start_url": "https://etenders.kerala.gov.in/nicgep/app?page=FrontEndLatestActiveTenders&service=page"       
     },
 
     {
@@ -132,8 +130,7 @@
         "name": "Lakshadweep",
         "captcha": true,
         "scraper_type": "nic_active",
-        "start_url": 
-        "start_url": "https://tendersutl.gov.in/nicgep/app?page=FrontEndAdvancedSearch&service=page"
+        "start_url": "https://tendersutl.gov.in/nicgep/app?page=FrontEndLatestActiveTenders&service=page"
     },
 
      {
