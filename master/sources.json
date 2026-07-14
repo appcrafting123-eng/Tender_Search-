@@ -110,6 +110,13 @@
         "start_url": "https://hptenders.gov.in/nicgep/app?page=FrontEndAdvancedSearch&service=page"
     },
     {
+        "id": "j&k",
+        "name": "Jammu & Kashmir",
+        "captcha": true,
+        "scraper_type": "nic_active",
+        "start_url": "https://jktenders.gov.in/nicgep/app?page=FrontEndLatestActiveTenders&service=page"
+    },
+    {
         "id": "jharkhand",
         "name": "Jharkhand",
         "captcha": true,
@@ -124,7 +131,13 @@
         "scraper_type": "nic_active",
         "start_url": "https://etenders.kerala.gov.in/nicgep/app?page=FrontEndLatestActiveTenders&service=page"       
     },
-
+    {
+        "id": "ladakh",
+        "name": "Ladakh",
+        "captcha": true,
+        "scraper_type": "nic_active",
+        "start_url": "https://tenders.ladakh.gov.in/nicgep/app?page=FrontEndLatestActiveTenders&service=page"
+    },
     {
         "id": "lakshadweep",
         "name": "Lakshadweep",
