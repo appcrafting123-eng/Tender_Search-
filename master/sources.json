@@ -3,14 +3,14 @@
         "id": "cpse1",
         "name": "GeM-CPPP for Central govt & PSUs",
         "captcha": false,
-        "scraper_type": "gem_active",
+        "scraper_type": "cpse_active",
         "start_url": "https://eprocure.gov.in/cppp/latestactivetendersnew/cpppdata?page=1"
     },
     {
         "id": "cpse2",
         "name": "GeM-CPPP for all State govts",
         "captcha": false,
-        "scraper_type": "gem_active",
+        "scraper_type": "cpse_active",
         "start_url": "https://eprocure.gov.in/cppp/latestactivetendersnew/mmpdata?page=1"
     },
 
