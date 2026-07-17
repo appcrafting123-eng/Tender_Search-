@@ -2,7 +2,7 @@
   "company_name": "ABC Infra",
 
   "enabled_sources": [
-    "cpse1", "cpse2", "cppp", "etenders", 
+    "cpse1", "cpse2", "cpse3", "cppp", "etenders", 
     "a&n", "chandigarh", "daman&diu", "dadra&nagar", "delhi", "lakshadweep",
     "arunachal", "assam", "manipur", "mizoram", "meghalaya", "nagaland", "tripura", "sikkim",
     "kerala", "tamilnadu",
