@@ -13,7 +13,13 @@
         "scraper_type": "cpse_active",
         "start_url": "https://eprocure.gov.in/cppp/latestactivetendersnew/mmpdata?page=1"
     },
-
+    {
+        "id": "cpse3",
+        "name": "GeM-CPPP for active bids",
+        "captcha": false,
+        "scraper_type": "cpse3_active",
+        "start_url": "https://eprocure.gov.in/cppp/latestactivetendersnew/gemdata?page=1"
+    },
     {
         "id": "cppp",
         "name": "CPPP - Central govt",
