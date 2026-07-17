@@ -106,14 +106,14 @@
         "name": "Goa",
         "captcha": true,
         "scraper_type": "nic_active",  
-        "start_url": "https://www.eprocure.goa.gov.in/nicgep/app?page=FrontEndAdvancedSearch&service=page"
+        "start_url": "https://www.eprocure.goa.gov.in/nicgep/app?page=FrontEndLatestActiveTenders&service=page"
     },
     {
         "id": "himachal",
         "name": "Himachal",
         "captcha": true,
         "scraper_type": "nic_active",
-        "start_url": "https://hptenders.gov.in/nicgep/app?page=FrontEndAdvancedSearch&service=page"
+        "start_url": "https://hptenders.gov.in/nicgep/app?page=FrontEndLatestActiveTenders&service=page"
     },
     {
         "id": "j&k",
